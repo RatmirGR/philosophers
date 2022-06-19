@@ -1,11 +1,11 @@
 <h3>Project name:</h3>
 <h2> philosophers</h2>
 
-<p>Project description:</p>
+<p><ins>Project description:</ins></p>
 This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger.
 
 <p></p>
-<p><ins>Task:<.ins></p>
+<p><ins>Task:</ins></p>
 <p>• Global variables are forbidden!</p>
 <p>• Your(s) program(s) should take the following arguments:</p>
 <p> number_of_philosophers time_to_die time_to_eat time_to_sleep</p>
@@ -34,7 +34,7 @@ This project is about learning how threads work by precisely timing a group of p
 <p>•• There is one fork between each pair of philosophers. Therefore, if there are several philosophers, each philosopher has a fork on their left side and a fork on their right side. If there is only one philosopher, there should be only one fork on the table.</p>
 <p>•• To prevent philosophers from duplicating forks, you should protect the forks state with a mutex for each of them.</p>
 
-<p>Bonus part</p>
+<p><ins>Bonus part</ins></p>
 <p>The program of the bonus part takes the same arguments as the mandatory program. It has to comply with the requirements of the Global rules chapter.</p>
 <p>The specific rules for the bonus part are:</p>
 <p>• All the forks are put in the middle of the table.</p>
