@@ -5,7 +5,7 @@
 This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger.
 
 <p></p>
-<p>Task:</p>
+<p><ins>Task:<.ins></p>
 <p>• Global variables are forbidden!</p>
 <p>• Your(s) program(s) should take the following arguments:</p>
 <p> number_of_philosophers time_to_die time_to_eat time_to_sleep</p>
